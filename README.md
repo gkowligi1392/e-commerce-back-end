@@ -6,6 +6,8 @@
 
 This project uses sequelize and node to create a basic e-commerce backend.
 
+[Watch walkthrough video here](https://youtu.be/nWtC6VlIAYQ)
+
 ## Table of Contents
 
 - [Usage](#usage)
